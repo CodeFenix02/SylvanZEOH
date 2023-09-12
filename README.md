@@ -1,4 +1,6 @@
-# RedZombie de Informática - Método de Conexión Remota (PZ)
+###SylvanZEOH
+
+# RedZombie de Informática - Método de Conexión Remota (PZE)
 
 ¡proyecto RedZombie de Informática! método de conexión remota, conocido como el Método PZE (Por Zero Esfuerzo), diseñado por aburrimiento.
 
